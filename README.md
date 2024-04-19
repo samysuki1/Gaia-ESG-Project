@@ -1,7 +1,5 @@
 # PROJETO GAIA ESG
 
-PROJETO ATUALIZADO NA MASTER: https://github.com/samysuki1/Gaia-ESG-Project/tree/master
-
 Gaia, a deusa primordial, geradora de todos os deuses, a deusa-terra, um dos primeiros elementos que surgiu no despontar da criação, junto com o Ar, Mar e Céu. Gaia era habitualmente representada em obras de arte, em geral, como uma senhora de aspecto maternal e preocupada com o mundo.
 
 O Projeto GAIA é uma plataforma inovadora que visa incentivar colaboradores de empresas a adotarem posturas ESG (Ambiental, Social e Governança) no seu dia a dia, buscando recompensar boas práticas promovendo hábitos mais saudáveis e cuidados com a nossa terra.
